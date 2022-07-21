@@ -11,3 +11,7 @@ In this project, I exprimented with the functionality of a various genetic algor
 6. Applying mutation by changing the value of a gene to a valid number by a probabilty.
 
 # Results of the Basic Genetic Algorithm:
+<p float="left">
+  <img src="https://github.com/taravatp/Genetic-Optimization-Algorithms-from-Scratch/blob/main/Results/sphere_basic_genetic.png" width="50%" />
+  <img src="/img2.png" width="50%" /> 
+</p>
