@@ -11,6 +11,8 @@ In this project, I exprimented with the functionality of a various genetic algor
 6. Applying mutation by changing the value of a gene to a valid number by a probabilty.
 
 # Results of the Basic Genetic Algorithm:
+
+Results of running the basic genetic algorithm on different functions:</br>
 <p float="left">
   <img src="https://github.com/taravatp/Genetic-Optimization-Algorithms-from-Scratch/blob/main/Results/sphere_basic_genetic.png" width="45%" />
   <img src="https://github.com/taravatp/Genetic-Optimization-Algorithms-from-Scratch/blob/main/Results/bentcigar_basic_genetic.png" width="45%" /> 
@@ -18,4 +20,15 @@ In this project, I exprimented with the functionality of a various genetic algor
 <p float="left">
   <img src="https://github.com/taravatp/Genetic-Optimization-Algorithms-from-Scratch/blob/main/Results/rastrigins_basic_genetic.png" width="45%" />
   <img src="https://github.com/taravatp/Genetic-Optimization-Algorithms-from-Scratch/blob/main/Results/ackley_basic_genetic.png" width="45%" /> 
+</p>
+
+Results of running the PSO on different functions:</br>
+
+<p float="left">
+  <img src="https://github.com/taravatp/Genetic-Optimization-Algorithms-from-Scratch/blob/main/Results/sphere_PSO.png" width="45%" />
+  <img src="https://github.com/taravatp/Genetic-Optimization-Algorithms-from-Scratch/blob/main/Results/bentcigar_PSO.png" width="45%" /> 
+</p>
+<p float="left">
+  <img src="https://github.com/taravatp/Genetic-Optimization-Algorithms-from-Scratch/blob/main/Results/rastriginsPSO.png" width="45%" />
+  <img src="https://github.com/taravatp/Genetic-Optimization-Algorithms-from-Scratch/blob/main/Results/ackley_PSO.png" width="45%" /> 
 </p>
