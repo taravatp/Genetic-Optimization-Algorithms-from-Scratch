@@ -11,7 +11,7 @@ In this project, I exprimented with the functionality of genetic algorithm and p
 6. Applying mutation by changing the value of a gene to a valid number by a probabilty.
 
 # Results of the Basic Genetic Algorithm:
-**According to the following results, it is ovbvious that genetic algorithm does not converge on multi-modal functions (Rastrigins and Ackley). The reason is get stuck in local optimas of the multi-modal functions.**
+**According to the following results, it is ovbvious that the genetic algorithm does not converge on multi-modal functions (Rastrigins and Ackley). The reason is that it gets stuck in local optimas of the multi-modal functions.**
 
 <p float="left">
   <img src="https://github.com/taravatp/Genetic-Optimization-Algorithms-from-Scratch/blob/main/Results/sphere_basic_genetic.png" width="48%%" />
@@ -23,7 +23,7 @@ In this project, I exprimented with the functionality of genetic algorithm and p
 </p>
 
 # Results of the Particle Swarm Optimization Algorithm:
-**In order to solve the aformentioned problem of the genetic algorithm, I implemented the particle swarm optimization algorith. The following results demonstrates that PSO works well on both unimodal and multi-modal functions.**
+**In order to solve the aformentioned problem of the genetic algorithm, I implemented the particle swarm optimization algorithm. The following results demonstrate that PSO works well on both unimodal and multi-modal functions.**
 
 <p float="left">
   <img src="https://github.com/taravatp/Genetic-Optimization-Algorithms-from-Scratch/blob/main/Results/sphere_PSO.png" width="48%" />
