@@ -12,7 +12,6 @@ In this project, I exprimented with the functionality of a various genetic algor
 
 # Results of the Basic Genetic Algorithm:
 
-**Results of running the basic genetic algorithm on different functions:**</br>
 <p float="left">
   <img src="https://github.com/taravatp/Genetic-Optimization-Algorithms-from-Scratch/blob/main/Results/sphere_basic_genetic.png" width="48%%" />
   <img src="https://github.com/taravatp/Genetic-Optimization-Algorithms-from-Scratch/blob/main/Results/bentcigar_basic_genetic.png" width="48%%" /> 
@@ -22,7 +21,7 @@ In this project, I exprimented with the functionality of a various genetic algor
   <img src="https://github.com/taravatp/Genetic-Optimization-Algorithms-from-Scratch/blob/main/Results/ackley_basic_genetic.png" width="48%%" /> 
 </p>
 
-**Results of running the PSO on different functions:**</br>
+# Results of the Particle Swarm Optimization Algorithm:
 
 <p float="left">
   <img src="https://github.com/taravatp/Genetic-Optimization-Algorithms-from-Scratch/blob/main/Results/sphere_PSO.png" width="48%" />
