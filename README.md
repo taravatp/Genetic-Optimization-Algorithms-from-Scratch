@@ -25,8 +25,8 @@ Results of running the basic genetic algorithm on different functions:</br>
 Results of running the PSO on different functions:</br>
 
 <p float="left">
-  <img src="https://github.com/taravatp/Genetic-Optimization-Algorithms-from-Scratch/blob/main/Results/sphere_PSO.png" width="48%" />
-  <img src="https://github.com/taravatp/Genetic-Optimization-Algorithms-from-Scratch/blob/main/Results/bentcigar_PSO.png" width="48%" /> 
+  <img src="https://github.com/taravatp/Genetic-Optimization-Algorithms-from-Scratch/blob/main/Results/sphere_PSO.png" width="50%" />
+  <img src="https://github.com/taravatp/Genetic-Optimization-Algorithms-from-Scratch/blob/main/Results/bentcigar_PSO.png" width="50%" /> 
 </p>
 <p float="left">
   <img src="https://github.com/taravatp/Genetic-Optimization-Algorithms-from-Scratch/blob/main/Results/rastrigins_PSO.png" width="48%" />
