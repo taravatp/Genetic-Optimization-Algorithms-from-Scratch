@@ -1,6 +1,6 @@
 # Genetic-Optimization-Algorithms-from-Scratch
 
-In this project, I exprimented with the functionality of genetic algorithm and particle swarm optimization algorithm on the following functions: Sphere, Bent Cigar, Rastrigins and Ackley.
+In this project, I exprimented with the functionality of genetic algorithm and particle swarm optimization algorithm on the following functions: Sphere, Bent Cigar, Rastrigins and Ackley. All the algorithms are implemented from scratch with python.
 
 # Designing a Basic Genetic Algorithm:
 1. Each chromosome consists of 30 genes.
