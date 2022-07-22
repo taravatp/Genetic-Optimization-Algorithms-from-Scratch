@@ -12,10 +12,10 @@ In this project, I exprimented with the functionality of a various genetic algor
 
 # Results of the Basic Genetic Algorithm:
 <p float="left">
-  <img src="https://github.com/taravatp/Genetic-Optimization-Algorithms-from-Scratch/blob/main/Results/sphere_basic_genetic.png" width="30%" />
-  <img src="https://github.com/taravatp/Genetic-Optimization-Algorithms-from-Scratch/blob/main/Results/bentcigar_basic_genetic.png" width="30%" /> 
+  <img src="https://github.com/taravatp/Genetic-Optimization-Algorithms-from-Scratch/blob/main/Results/sphere_basic_genetic.png" width="45%" />
+  <img src="https://github.com/taravatp/Genetic-Optimization-Algorithms-from-Scratch/blob/main/Results/bentcigar_basic_genetic.png" width="45%" /> 
 </p>
 <p float="left">
-  <img src="https://github.com/taravatp/Genetic-Optimization-Algorithms-from-Scratch/blob/main/Results/rastrigins_basic_genetic.png" width="50%" />
-  <img src="https://github.com/taravatp/Genetic-Optimization-Algorithms-from-Scratch/blob/main/Results/ackley_basic_genetic.png" width="50%" /> 
+  <img src="https://github.com/taravatp/Genetic-Optimization-Algorithms-from-Scratch/blob/main/Results/rastrigins_basic_genetic.png" width="45%" />
+  <img src="https://github.com/taravatp/Genetic-Optimization-Algorithms-from-Scratch/blob/main/Results/ackley_basic_genetic.png" width="45%" /> 
 </p>
