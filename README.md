@@ -1,6 +1,6 @@
 # Genetic-Optimization-Algorithms-from-Scratch
 
-In this project, I exprimented with the functionality of a various genetic algorithms on the following functions: Sphere, Bent Cigar, Rastrigins and Ackley.
+In this project, I exprimented with the functionality of genetic algorithm and particle swarm optimization algorithm on the following functions: Sphere, Bent Cigar, Rastrigins and Ackley.
 
 # Designing a Basic Genetic Algorithm:
 1. Each chromosome consists of 30 genes.
@@ -11,6 +11,7 @@ In this project, I exprimented with the functionality of a various genetic algor
 6. Applying mutation by changing the value of a gene to a valid number by a probabilty.
 
 # Results of the Basic Genetic Algorithm:
+**According to the following results, it is ovbvious that genetic algorithm does not converge on multi-modal functions (Rastrigins and Ackley). The reason is get stuck in local optimas of the multi-modal functions.**
 
 <p float="left">
   <img src="https://github.com/taravatp/Genetic-Optimization-Algorithms-from-Scratch/blob/main/Results/sphere_basic_genetic.png" width="48%%" />
@@ -22,6 +23,7 @@ In this project, I exprimented with the functionality of a various genetic algor
 </p>
 
 # Results of the Particle Swarm Optimization Algorithm:
+**In order to solve the aformentioned problem of the genetic algorithm, I implemented the particle swarm optimization algorith. The following results demonstrates that PSO works well on both unimodal and multi-modal functions.**
 
 <p float="left">
   <img src="https://github.com/taravatp/Genetic-Optimization-Algorithms-from-Scratch/blob/main/Results/sphere_PSO.png" width="48%" />
